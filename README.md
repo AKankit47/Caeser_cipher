@@ -30,7 +30,7 @@ This Python program implements the **Caesar Cipher**, a simple substitution ciph
    ```
 3. Run the program:
    ```bash
-   python Prodigy_7_task1.py
+   python Task1.py
    ```
 4. Follow the on-screen instructions to encrypt or decrypt messages.
 
