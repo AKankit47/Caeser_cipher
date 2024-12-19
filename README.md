@@ -22,15 +22,15 @@ This Python program implements the **Caesar Cipher**, a simple substitution ciph
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher.git
+   git clone https://github.com/AKankit47/Prodigy_7_task1.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd caesar-cipher
+   cd Prodigy_7_task1
    ```
 3. Run the program:
    ```bash
-   python caesar_cipher.py
+   python Prodigy_7_task1.py
    ```
 4. Follow the on-screen instructions to encrypt or decrypt messages.
 
