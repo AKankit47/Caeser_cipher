@@ -22,7 +22,7 @@ This Python program implements the **Caesar Cipher**, a simple substitution ciph
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AKankit47/Prodigy_7_task1.git
+   git clone https://github.com/AKankit47/Caeser_cipher.git
    ```
 2. Navigate to the directory:
    ```bash
